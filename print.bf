@@ -1,5 +1,3 @@
-// Pour rendre le code plus lisible le code sera commente avec des "//" qui indiqueront qu'il s'agira d'un commentaire a noter que le symbole "&" remplacera le "plus" (operateur d'addition) le symbole "_" remplacera le "moins" (operateur de sosutraction) et que les "{}" replaceront les autres commentaire que l'on peut ecrire sous peine d'executer une instruction non voulue
-
 >+++++++++++++[<+++++>-]<.         // 0 & (13 * 5) = 65 (A)
 >++++++[<++++++>-]<---.            // 65 & (6 * 6) _ 3 = 98 (b)
 ++.                                // 66 & 2 = 100 (d)
